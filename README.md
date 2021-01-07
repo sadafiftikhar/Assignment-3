@@ -5,7 +5,7 @@ Image Classification using CNN
 ## Dataset
 Intel-Classification-Images
 The dataset is divided into 3 categories i.e. training set, validation set, and test set.
-Import from Kaggle
+Import data from Kaggle
 
 ## Model Setting
 Epochs = 10
