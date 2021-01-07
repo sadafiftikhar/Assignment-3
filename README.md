@@ -16,6 +16,10 @@ modelx = Dense(256, activation='relu')(modelx)
 # modelx = Dense(256, activation='relu')(modelx)
 model = Dense(len(folders), activation='softmax')(modelx)
 ```
+
+## Model Summary
+![alt text](https://github.com/sadafiftikhar/Assignment-3/blob/main/images/summary.PNG?raw=true)
+
 ## Trained Model Weights 
 https://drive.google.com/file/d/1-1xq-BqAficdpdfwRov2gyKx5MBmZ0Rx/view?usp=sharing
 
